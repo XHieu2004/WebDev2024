@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Trương Xuân Hiếu
+* ID: 22BI13163
+* Group ID: 16
+* Project Name: Video Streaming Platform
