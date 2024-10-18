@@ -14,3 +14,16 @@ Student Info
 * ID: 22BI13163
 * Group ID: 16
 * Project Name: Video Streaming Platform
+
+Work Contribution
+=======================
+
+- Lê Nhật Anh: Video page + Sign in page
+- Nguyễn Hoàng Anh: Menu component + Home page
+- Trương Xuân Hiếu: Small Card + Small Card Container components
+- Nguyễn Hoàng Lân: Card + Home page
+- Lê Phúc Nguyên: Navigation bar component
+- Nguyễn Ngọc Anh Đức: Comment component
+
+
+
